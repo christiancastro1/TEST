@@ -1,0 +1,18 @@
+My favorite editor is Vim, I was first introduced to this editor in Skeith CSC103 class. I had a hard time trying to get used to it but once you 
+understand how it works it's pretty awesome ??. When I first started using this text editor I had a hard time trying to move around the editor. 
+I kept on trying to use the mouse to move from one line to the other. I then realized that vim was made to minimize mouse clicks, instead, 
+everything has its own command or key to optimize how you code. After a while, I became familiar with moving the cursor while in command mode, 
+now I'm able to move around a file without ever touching my mouse. We can move around by using 'j' for down, 'k' to move up, 'L' to move to the left 
+and 'H' to move to the right. This was a simple introduction with my first experience with vim. I will be listing 3 reasons why it's my favorite editor.
+
+1. Vim is available in any Linux based system. Its already installed in my mac so there was no problem trying to download it since its already on the
+ system. It also supports several programming languages and file formats. I use vim for taking class notes, coding in c++, java, and python.
+
+2. Vim is flexible to your preference, you can modify the .vimrc to add syntax color, tab space,  status bar, show line bar and so on. There are so
+ many ways that you can build your .vimrc in order to fit your needs and productivity.
+
+3. Editing in vim is super fast and easy. It doesn't require any use of the mouse to move around the text to move around. For example, if I'm all the 
+way in the bottom of the file I can easily move up by being in command mode and pressing 'gg'. I can also move to the bottom of the file by pressing 
+'GG'. I can also but a number in front of those commands to specify how far I want to move up or down. Say I want to go to the end of the line I can e
+asily press '$' and it takes me to the end. If I want to move to the beginning of line I can press 'b', move the beginning of a word 'w'.  I can also 
+change mode by pressing 'a' append which switches me to insert mode. By pressing 'A' puts me at the end of the line and in Insert mode.

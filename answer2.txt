@@ -1,0 +1,39 @@
+In the command line, i can generate multiple files by using brace expansion.Say
+
+$?touch file{1..4}.txt
+
+$touch  temp{1..4}.bak
+
+$touch python{1..4}.py
+
+---------------------------------------------------------------------------------------------------------------------------
+
+??????????????Question 1:
+for file in 'ls *.txt'
+do
+
+       mov file new_$file.txt
+done
+
+Question 2: 
+rm *.bak
+Question 3:
+
+lines = wc -l filename
+for file in 'ls *.py'
+do 
+     if [lines ge 10]
+
+        then    
+            mv file long_$file.py
+        else
+            mv file short_$file.py
+        fi
+done
+
+
+
+
+
+
+
